@@ -1,0 +1,27 @@
+{
+  "name": "backend-wizard-stage0",
+  "version": "1.0.0",
+  "description": "First task on HNG-2025-Stage-Zero",
+  "main": "server.js",
+  "type": "module",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Skb111/backend-wizard-stage0.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Skb111/backend-wizard-stage0/issues"
+  },
+  "homepage": "https://github.com/Skb111/backend-wizard-stage0#readme",
+  "dependencies": {
+    "axios": "^1.12.2",
+    "cors": "^2.8.5",
+    "dotenv": "^17.2.3",
+    "express": "^5.1.0"
+  }
+}
